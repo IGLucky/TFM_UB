@@ -7,8 +7,6 @@ A Multi-Model Analysis of Racial Disparities, Structural Bias, and Mitigation St
 This repository contains the code for a Master's thesis investigating algorithmic fairness in ICU mortality prediction. The study compares four model architectures (XGBoost, a deep feedforward neural network, a bidirectional LSTM, and a Transformer) across an ICU cohort, seeing whether performance disparities exist across race groups, where they come from, and whether they can be mitigated.
 
 
-**Supervisor:** Dr. Laura Igual
-
 ## Dataset
 
 This work uses MIMIC-IV (version 3.1), a database of de-identified ICU patient records. Access requires credentialing through PhysioNet, so no patient data is included in this repository. Code here assumes the user has independently obtained credentialed access and built the relevant cohort tables.

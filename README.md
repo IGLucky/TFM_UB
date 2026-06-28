@@ -4,7 +4,7 @@ A Multi-Model Analysis of Racial Disparities, Structural Bias, and Mitigation St
 
 ## Overview
 
-This repository contains the code for a Master's thesis investigating algorithmic fairness in ICU mortality prediction. The study compares four model architectures (XGBoost, a deep feedforward neural network, a bidirectional LSTM, and a Transformer) across an ICU cohort, seeing whether performance disparities exist across race groups, where they come from, and whether they can be mitigated.
+This repository contains the code for a Master's thesis investigating algorithmic fairness in ICU mortality prediction. Supervised by Laura Igual, PhD. The study compares four model architectures (XGBoost, a deep feedforward neural network, a bidirectional LSTM, and a Transformer) across an ICU cohort, seeing whether performance disparities exist across race groups, where they come from, and whether they can be mitigated.
 
 
 ## Dataset
